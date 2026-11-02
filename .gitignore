@@ -1,0 +1,20 @@
+# Исходные данные (по условию не включать в репозиторий)
+materials/Dannye_dlya_testovogo_zadania.csv
+materials/Dannye_dlya_testovogo_zadania copy.csv
+materials/Testovoe_zadanie.docx
+materials/Testovoe_zadanie copy.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
